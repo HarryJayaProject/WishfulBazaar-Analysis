@@ -1,8 +1,8 @@
 # 📊 WishfulBazaar Sales Performance & Customer Analysis
 
 **Author:** Heryanto Jaya  
-**LinkedIn:** [Heryanto Jaya](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-**Tableau Dashboard:** [Link to Dashboard](https://public.tableau.com/app/profile/YOUR-LINK-HERE)
+**LinkedIn:** [Heryanto Jaya](www.linkedin.com/in/heryantojaya)  
+**Tableau Dashboard:** [Link to Dashboard](https://public.tableau.com/views/IntermediateAssignmentHeryantoJaya/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -54,7 +54,7 @@ This project analyzes five years of sales data (2019–2023) from **WishfulBazaa
 
 - `WishfulBazaar_Analysis.pptx` – Executive presentation (PowerPoint)  
 - `README.md` – Project summary and findings  
-- [Dashboard Link](https://public.tableau.com/app/profile/YOUR-LINK-HERE) – Interactive Tableau dashboard  
+- [Dashboard Link](https://public.tableau.com/views/IntermediateAssignmentHeryantoJaya/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Interactive Tableau dashboard  
 
 ---
 
@@ -62,5 +62,5 @@ This project analyzes five years of sales data (2019–2023) from **WishfulBazaa
 
 For questions or collaboration:  
 📧 herjaya94@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) | [GitHub](https://github.com/HarryJayaProject)
+🔗 [LinkedIn](www.linkedin.com/in/heryantojaya) | [GitHub](https://github.com/HarryJayaProject)
 
